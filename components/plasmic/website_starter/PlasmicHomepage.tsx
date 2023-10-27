@@ -269,6 +269,7 @@ function PlasmicHomepage__RenderFunc(props: {
                 <Button2
                   className={classNames("__wab_instance", sty.button2__efoti)}
                   color={"white"}
+                  link={"mailto:admkonten.ai@gmail.com"}
                 >
                   {"Hubungi Konten.ai"}
                 </Button2>
@@ -357,6 +358,7 @@ function PlasmicHomepage__RenderFunc(props: {
                   <Button2
                     className={classNames("__wab_instance", sty.button2__zVl)}
                     color={"white"}
+                    link={"mailto:admkonten.ai@gmail.com"}
                   >
                     {"Hubungi Konten.ai"}
                   </Button2>
