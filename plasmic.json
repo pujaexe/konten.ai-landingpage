@@ -7,7 +7,7 @@
   },
   "style": {
     "scheme": "css-modules",
-    "defaultStyleCssFilePath": "plasmic/plasmic__default_style.css"
+    "defaultStyleCssFilePath": "plasmic/plasmic__default_style.module.css"
   },
   "images": {
     "scheme": "public-files",
@@ -41,7 +41,8 @@
           "componentImportPath": "@plasmicpkgs/plasmic-nav"
         }
       ],
-      "customFunctions": []
+      "customFunctions": [],
+      "jsBundleThemes": []
     },
     {
       "projectId": "knq1J97Ut4eoSfMTj9EpbY",
@@ -116,6 +117,16 @@
           "id": "Sh3bFDCafqLW",
           "name": "logokonten.ai.png",
           "filePath": "../public/plasmic/website_starter/images/logokontenaipng.png"
+        },
+        {
+          "id": "EDoHizArDogA",
+          "name": "konten.ai.png",
+          "filePath": "../public/plasmic/website_starter/images/kontenaipng.png"
+        },
+        {
+          "id": "Y8PkBXqPk4Ga",
+          "name": "konten.ai-logogram.png",
+          "filePath": "../public/plasmic/website_starter/images/kontenaiLogogrampng.png"
         }
       ],
       "indirect": false,

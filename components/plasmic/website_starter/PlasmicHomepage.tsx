@@ -154,9 +154,9 @@ function PlasmicHomepage__RenderFunc(props: {
                     displayMinWidth={"0"}
                     displayWidth={"auto"}
                     src={{
-                      src: "/plasmic/website_starter/images/logokontenaipng.png",
-                      fullWidth: 209,
-                      fullHeight: 43,
+                      src: "/plasmic/website_starter/images/kontenaiLogogrampng.png",
+                      fullWidth: 1406,
+                      fullHeight: 382,
                       aspectRatio: undefined
                     }}
                   />

@@ -36,7 +36,7 @@
   top: 0;
   left: 0;
   z-index: 1;
-  background: #ffffff;
+  background: #15181c;
   min-width: 0;
 }
 .navigationBar:global(.__wab_instance) {
@@ -96,18 +96,21 @@
   width: auto;
   height: auto;
   max-width: 100%;
+  color: #ffffff;
 }
 .link__jVUe {
   position: relative;
   width: auto;
   height: auto;
   max-width: 100%;
+  color: #ffffff;
 }
 .link__juUri {
   position: relative;
   width: auto;
   height: auto;
   max-width: 100%;
+  color: #ffffff;
 }
 .section__oBTp {
   display: grid;
